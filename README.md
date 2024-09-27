@@ -1,0 +1,1 @@
+The Church Management System (CMS) is a robust web application designed to streamline and enhance the administrative functions of churches. Built using the MERN stack (MongoDB, Express.js, React.js, and Node.js), this system provides a user-friendly interface for church leaders, staff, and members to manage various activities and operations efficiently.
